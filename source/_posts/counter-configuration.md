@@ -22,6 +22,7 @@ tags:
 在弹出的窗口中，输入你想绑定的域名，然后点击绑定按钮。
 ![输入域名](/zxrimgs/2024-8-15/5.png "输入域名")
 完成后，请复制CNAME解析配置，到DNS提供商配置对应的CNAME记录。
+![配置域名](/zxrimgs/2024-8-15/6.png "配置域名")
 ## 配置主题
 在博客的主题配置文件中，找到`web_analytics`，修改`enable`、`app_id`和`app_key`：
 ```yaml
@@ -56,3 +57,4 @@ hexo g
 hexo d
 ```
 Enjoy it!(๑•̀ㅂ•́)و✧
+![效果图](/zxrimgs/2024-8-15/8.png "效果图")
