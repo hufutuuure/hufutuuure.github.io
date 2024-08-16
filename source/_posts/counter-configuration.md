@@ -1,6 +1,8 @@
 ---
 title: hexo+fluid+leancloud添加访问量显示（图文）
 date: 2024-08-15 23:24:56
+index_img: https://mediacdn.uuu.me.uk/imgs/2024-8-15/img254-index.jpg
+banner_img: https://mediacdn.uuu.me.uk/imgs/2024-8-15/img254.webp
 tags:
 ---
 最近心血来潮，给博客加了个访问量显示，在这里记录下过程。
