@@ -450,9 +450,8 @@ footer:
     <i class="iconfont icon-love"></i>
     <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a>
     <br>
-    <a href="https://www.uuu.me.uk" target="_blank">Vercel主站</a>
-    <span class="space">|</span><span class="space"></span>
-    <a href="https://gp.uuu.me.uk" target="_blank">Github Pages分站</a>
+    <p><a href="https://www.uuu.me.uk" target="_blank">Vercel主站</a> </p>
+    <p><a href="https://gp.uuu.me.uk" target="_blank">Github Pages分站</a>| </p>
     <br>
     <a href="https://icp.gov.moe/?keyword=20240698" target="_blank">萌ICP备20240698号</a>
   '
